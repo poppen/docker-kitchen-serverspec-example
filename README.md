@@ -1,12 +1,1 @@
-Description
-===========
-
-Requirements
-============
-
-Attributes
-==========
-
-Usage
-=====
-
+docker-kitchen-serverspec-example
